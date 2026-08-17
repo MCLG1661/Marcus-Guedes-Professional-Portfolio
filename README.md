@@ -1,10 +1,10 @@
 # 💼 Marcus Guedes — Professional Portfolio
 
-### Business • Marketing • Data Science • Artificial Intelligence • Project Management
-
 [![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit-2ea44f)](URL-DO-PORTFOLIO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcus_Guedes-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusguedes/)
 [![GitHub](https://img.shields.io/badge/GitHub-MCLG1661-181717?logo=github&logoColor=white)](https://github.com/MCLG1661)
+
+*Business • Marketing • Data Science • Artificial Intelligence • Project Management*
 
 Portfólio profissional desenvolvido para apresentar minha trajetória na interseção entre **negócios, dados e tecnologia**, reunindo experiência profissional, competências e projetos aplicados em **Marketing, Operações, Data Analytics, Machine Learning, Inteligência Artificial e Gestão de Projetos**.
 
