@@ -1,6 +1,6 @@
 # 💼 Marcus Guedes — Professional Portfolio
 
-> **Project Management • Operations & Performance • Data Analytics • AI Applied to Business**
+> **Project Management · Business Performance · Marketing Intelligence · AI & Automation**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit-2ea44f)](https://portfolio-update-buddy.lovable.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcus_Guedes-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusguedes/)
@@ -72,6 +72,30 @@ O objetivo não é utilizar tecnologia como fim, mas aplicá-la onde ela possa *
 Uma seleção de projetos que representa a integração entre **negócio, dados, inteligência artificial e desenvolvimento de soluções**.
 
 ---
+
+## CommunityLab — ONE G10
+
+Projeto colaborativo de inteligência de comunidades digitais, com extração rastreável de histórias de sucesso, revisão humana e integração OCI. 
+
+[Explorar CommunityLab](https://github.com/MCLG1661/CommunityLab)
+
+## DealCraft AI
+
+Sistema de estruturação e validação de oportunidades comerciais B2B e geração controlada de propostas.
+
+[Explorar DealCraft AI](https://github.com/MCLG1661/DealCraft-AI)
+
+## Marketing Intelligence AI
+
+Agente de apoio à estratégia de marketing, analytics, conteúdo e inteligência comercial, distinto do dashboard MIA.
+
+[Explorar Marketing Intelligence AI](https://github.com/MCLG1661/Marketing-Intelligence-AI)
+
+## VoeBem Analytics AI
+
+Engenharia de dados aplicada à aviação brasileira: Databricks, Spark, Delta Lake, arquitetura Medallion e Genie Agents.
+
+[Explorar VoeBem Analytics AI](https://github.com/MCLG1661/VoeBem-Analytics-AI)
 
 ## 🛒 DealMind AI
 
@@ -171,9 +195,9 @@ Além dos projetos destacados, o portfólio inclui experimentos e soluções em 
 
 Aplicação de Marketing Intelligence voltada à transformação de dados de campanhas em análises e insights.
 
-`Marketing Analytics` `Python` `Data Analytics` `AI`
+`Marketing Analytics` `HTML` `CSS` `JavaScript` `Data Analytics`
 
-🔗 [Explorar projeto](https://github.com/MCLG1661/Analista-de-Marketing-Inteligente-)
+🔗 [Explorar projeto](https://github.com/MCLG1661/Analista-de-Marketing-Inteligente)
 
 ### 🕸️ Sistema de Recomendação Musical
 
@@ -189,7 +213,7 @@ Projeto de desenvolvimento Web selecionado entre os **10 melhores trabalhos da I
 
 `JavaScript` `HTML` `CSS` `JSON`
 
-🔗 [Explorar projeto](https://github.com/MCLG1661/Imersao-DEV-10)
+🔗 [Explorar projeto](https://github.com/MCLG1661/Enciclopedia-de-Tecnologia-Knowledge-Base-Interativa)
 
 ---
 
@@ -219,7 +243,7 @@ Projeto de desenvolvimento Web selecionado entre os **10 melhores trabalhos da I
 
 ## 💻 Tecnologias deste Portfolio
 
-O próprio portfólio é uma aplicação Web.
+O portfólio online é apresentado como aplicação web; a tabela abaixo descreve a stack informada na documentação original, não verificada neste repositório.
 
 | Tecnologia | Aplicação |
 |---|---|
@@ -233,34 +257,9 @@ O próprio portfólio é uma aplicação Web.
 
 ---
 
-## 🏗️ Estrutura do Projeto
+## Sobre este repositório
 
-```text
-Marcus-Guedes-Professional-Portfolio/
-│
-├── public/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   └── ...
-│
-├── package.json
-├── vite.config.ts
-├── tsconfig.json
-└── README.md
-```
-
----
-
-## 🚀 Executando Localmente
-
-```bash
-git clone https://github.com/MCLG1661/Marcus-Guedes-Professional-Portfolio.git
-cd Marcus-Guedes-Professional-Portfolio
-npm install
-npm run dev
-```
+Este repositório funciona como índice documental do portfólio profissional. A aplicação publicada está disponível no link acima; seu código-fonte não está incluído neste repositório. Consulte o [perfil GitHub](https://github.com/MCLG1661) para a classificação completa dos projetos.
 
 ---
 
