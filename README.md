@@ -75,7 +75,7 @@ Uma seleção de projetos que representa a integração entre **negócio, dados,
 
 ## CommunityLab — ONE G10
 
-Projeto colaborativo de inteligência de comunidades digitais, com extração rastreável de histórias de sucesso, revisão humana e integração OCI. 
+Projeto colaborativo de inteligência de comunidades digitais, com extração rastreável de histórias de sucesso, revisão humana e integração OCI. Minha atuação: Project Manager, coordenação de entregas e critérios de aceitação em colaboração com a equipe. 
 
 [Explorar CommunityLab](https://github.com/MCLG1661/CommunityLab)
 
@@ -103,7 +103,7 @@ Engenharia de dados aplicada à aviação brasileira: Databricks, Spark, Delta L
 
 Plataforma desenvolvida para descoberta, acompanhamento e análise de ofertas, combinando histórico de preços, monitoramento de produtos e inteligência para apoiar decisões de compra.
 
-O projeto evoluiu de um MVP para uma aplicação estruturada, explorando conceitos de **produto digital, APIs, persistência de dados, automação e Inteligência Artificial aplicada ao e-commerce**.
+O MVP apresenta uma arquitetura estruturada, explorando conceitos de **produto digital, APIs, persistência de dados, automação e Inteligência Artificial aplicada ao e-commerce**.
 
 **Principais competências**
 
@@ -157,6 +157,10 @@ Entre os resultados observados, destacam-se diferenças relevantes relacionadas 
 
 🔗 [Explorar Telecom X BR I](https://github.com/MCLG1661/Telecom-X-BR-I)
 
+**Continuação — Telecom X BR II:** modelagem supervisionada de churn, com recall de 79,41% e ROC-AUC de 0,8352 registrados no conjunto de teste. Aplicação potencial em CRM e retenção, ainda sem validação em produção.
+
+[Explorar Telecom X BR II](https://github.com/MCLG1661/Telecom-X-BR-II)
+
 ---
 
 ## 🗺️ Municipal Clustering — Portugal
@@ -167,7 +171,7 @@ O projeto utiliza dados da **PORDATA** para explorar padrões socioeconômicos e
 
 **Principais competências**
 
-`Python` `K-Means` `PCA` `ANOVA` `Scikit-learn` `PORDATA` `Data Science`
+`Python` `K-Means` `PCA` `ANOVA` `Scikit-learn` `PORDATA` `GeoPandas` `Folium`
 
 🔗 [Explorar Municipal Clustering](https://github.com/MCLG1661/Municipal-Clustering)
 
@@ -184,6 +188,16 @@ A solução demonstra como dados operacionais podem ser transformados em **KPIs,
 `Python` `Streamlit` `Pandas` `Plotly` `KPIs` `Operations Analytics` `Data Visualization` `Data Privacy`
 
 🔗 [Explorar projeto](https://github.com/MCLG1661/Operacao-Labora-Ambipar) · [Demonstração online](https://operacao-labora-ambipar-7ue494brbdawvj7pd3qqic.streamlit.app/)
+
+---
+
+## ARI Flow — AI-Powered Email Workflow Automation
+
+Protótipo documentado de triagem e atendimento por e-mail com Make, Gemini, Gmail e grounding documental. Roteamento de mensagens fora do escopo para tratamento humano. [Repositório](https://github.com/MCLG1661/ARI-Flow) · [Pre-release v0.1.0](https://github.com/MCLG1661/ARI-Flow/releases/tag/v0.1.0).
+
+## HealthGuardian AI — Healthcare AI & NLP Lab
+
+Laboratório educacional de classificação lexical explicável, avaliação contextual e Responsible AI. Interface PT/EN, motor em português; não destinado a uso clínico. [Repositório](https://github.com/MCLG1661/Universidade-de-Helsinki-Construindo-IA-Elementos-de-IA) · [Release v1.1.0](https://github.com/MCLG1661/Universidade-de-Helsinki-Construindo-IA-Elementos-de-IA/releases/tag/v1.1.0).
 
 ---
 
