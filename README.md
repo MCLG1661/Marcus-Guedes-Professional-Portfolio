@@ -173,17 +173,17 @@ O projeto utiliza dados da **PORDATA** para explorar padrões socioeconômicos e
 
 ---
 
-## 📊 Operations Performance Analytics
+## 📊 Operations Analytics — Business Intelligence Dashboard
 
-Projeto baseado na aplicação de **Data Analytics ao acompanhamento de uma operação empresarial**, estruturando indicadores para análise de produtividade, desempenho e evolução operacional.
+Case independente de **Business Intelligence e gestão operacional**, inspirado em uma experiência profissional e disponibilizado com dados integralmente sintéticos e reproduzíveis.
 
 A solução demonstra como dados operacionais podem ser transformados em **KPIs, visualizações e informações gerenciais**, conectando analytics à tomada de decisão.
 
 **Principais competências**
 
-`Python` `Streamlit` `Pandas` `KPIs` `Operations Analytics` `Data Visualization`
+`Python` `Streamlit` `Pandas` `Plotly` `KPIs` `Operations Analytics` `Data Visualization` `Data Privacy`
 
-🔗 [Explorar projeto](https://github.com/MCLG1661/Operacao-Labora-Ambipar)
+🔗 [Explorar projeto](https://github.com/MCLG1661/Operacao-Labora-Ambipar) · [Demonstração online](https://operacao-labora-ambipar-7ue494brbdawvj7pd3qqic.streamlit.app/)
 
 ---
 
