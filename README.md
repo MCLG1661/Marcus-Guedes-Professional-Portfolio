@@ -72,6 +72,19 @@ O objetivo não é utilizar tecnologia como fim, mas aplicá-la onde ela possa *
 
 ---
 
+## Business Case Studies | English
+
+Evidence-based project summaries covering business challenges, solutions, competencies, documented evidence and limitations.
+
+- [CommunityLab](https://github.com/MCLG1661/CommunityLab/blob/main/BUSINESS_CASE.md)
+- [DealCraft AI](https://github.com/MCLG1661/DealCraft-AI/blob/main/BUSINESS_CASE.md)
+- [Marketing Intelligence AI](https://github.com/MCLG1661/Marketing-Intelligence-AI/blob/main/BUSINESS_CASE.md)
+- [VoeBem Analytics AI](https://github.com/MCLG1661/VoeBem-Analytics-AI/blob/main/BUSINESS_CASE.md)
+- [Operations Analytics](https://github.com/MCLG1661/Operacao-Labora-Ambipar/blob/main/BUSINESS_CASE.md)
+- [ARI Flow](https://github.com/MCLG1661/ARI-Flow/blob/main/BUSINESS_CASE.md)
+
+---
+
 # ⭐ Featured Projects
 
 Uma seleção de projetos que representa a integração entre **negócio, dados, inteligência artificial e desenvolvimento de soluções**.
