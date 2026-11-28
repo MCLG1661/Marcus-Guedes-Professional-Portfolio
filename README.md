@@ -12,7 +12,7 @@ Portfólio profissional que reúne minha experiência em **Gestão de Projetos, 
 > Transformando experiência de negócio, dados e inteligência artificial em soluções para performance, decisão e transformação.
 
 
-## English overview
+## English Overview
 
 A professional portfolio connecting project management, operations, commercial strategy and marketing with data analytics, artificial intelligence and automation. Selected projects illustrate business-oriented problem solving, analytical workflows and decision support. Explore the featured projects below for their individual scope and limitations.
 
